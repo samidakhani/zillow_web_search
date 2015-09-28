@@ -1,5 +1,5 @@
 # zillow_web_search
-Responsive web application for scraping real-estate date using Zillow API
+Responsive web application for scraping real-estate data using Zillow API
 
 Upload on Application Server <br />
 1.facebook-share-button.png <br />
